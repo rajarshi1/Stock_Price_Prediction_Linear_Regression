@@ -7,3 +7,5 @@ Predict the next day's closing price and compare it to actual results.
 Resources:
 yfinance docs
 Scikit-learn
+
+<img width="834" height="451" alt="results" src="https://github.com/user-attachments/assets/a2f987a7-4bd0-44ea-8b34-d04b7a38a691" />
